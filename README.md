@@ -44,6 +44,7 @@ Sistema de Gestión de Biblioteca
 3. Buscar libro
 4. Eliminar libro
 5. Salir
+
 Ingrese una opción: 1
 Ingrese el nombre del libro: Kokoro
 Ingrese el autor del libro: Natsume Soseki
