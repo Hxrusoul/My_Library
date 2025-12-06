@@ -31,9 +31,13 @@ Se mostrará un menú con las siguientes opciones:
 ## Detalles de las opciones
 
 **Agregar libro:** Solicita el nombre, autor y categoría. Si se deja un campo vacío, el programa vuelve a pedirlo.
+
 **Mostrar libros:** Lista todos los libros agregados con su número, nombre, autor y categoría.
+
 **Buscar libro:** Permite buscar libros por nombre (la búsqueda no distingue mayúsculas/minúsculas).
+
 **Eliminar libro:** Muestra los libros con número y permite eliminar uno seleccionando su número.
+
 **Salir:** Termina la ejecución del programa.
 
 ## Ejemplo de uso
@@ -45,11 +49,11 @@ Sistema de Gestión de Biblioteca
 4. Eliminar libro
 5. Salir
 
-Ingrese una opción: 1
-Ingrese el nombre del libro: Kokoro
-Ingrese el autor del libro: Natsume Soseki
-Ingrese la categoría del libro: Romance
-Libro 'Kokoro' agregado correctamente.
+- Ingrese una opción: 1
+- Ingrese el nombre del libro: Kokoro
+- Ingrese el autor del libro: Natsume Soseki
+- Ingrese la categoría del libro: Romance
+- Libro 'Kokoro' agregado correctamente.
 
 ## Notas
 
